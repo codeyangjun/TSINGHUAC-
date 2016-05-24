@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463584676 source:f:\c++ workspace\tsinghuac-\functionoperator\src\sortedarray.cpp
+	"SortedArray.h"
+	<algorithm>
+
+1463584702 f:\c++ workspace\tsinghuac-\functionoperator\include\sortedarray.h
+
+1463584877 source:f:\c++ workspace\tsinghuac-\functionoperator\main.cpp
+	<iostream>
+	"SortedArray.h"
+

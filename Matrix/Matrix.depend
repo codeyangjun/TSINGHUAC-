@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1464082453 source:f:\c++ workspace\tsinghuac-\matrix\main.cpp
+	<iostream>
+	"LoopMatrix.h"
+
+1464082503 f:\c++ workspace\tsinghuac-\matrix\include\matrix.h
+	<iostream>
+
+1464082274 source:f:\c++ workspace\tsinghuac-\matrix\src\matrix.cpp
+	"Matrix.h"
+
+1464082156 f:\c++ workspace\tsinghuac-\matrix\include\loopmatrix.h
+	"Matrix.h"
+
+1464082257 source:f:\c++ workspace\tsinghuac-\matrix\src\loopmatrix.cpp
+	"LoopMatrix.h"
+
