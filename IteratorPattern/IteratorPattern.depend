@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1465813476 source:f:\c++ workspace\tsinghuac-\iteratorpattern\arrayiterator.cpp
+	"ArrayIterator.h"
+
+1465814001 f:\c++ workspace\tsinghuac-\iteratorpattern\arrayiterator.h
+	"Iterator.h"
+
+1465813288 f:\c++ workspace\tsinghuac-\iteratorpattern\iterator.h
+
+1465814669 source:f:\c++ workspace\tsinghuac-\iteratorpattern\main.cpp
+	<iostream>
+	"Iterator.h"
+	"Collection.h"
+	"ArrayCollection.h"
+
+1465814175 f:\c++ workspace\tsinghuac-\iteratorpattern\collection.h
+	"Iterator.h"
+
+1465814033 f:\c++ workspace\tsinghuac-\iteratorpattern\arraycollection.h
+	"Collection.h"
+	"ArrayIterator.h"
+
